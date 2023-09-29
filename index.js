@@ -28,8 +28,8 @@ function tubuyaki_refresh(){
 
 
 function tubuyaki_focus(){
-  var test = "#"+(tubuyaki.length-1);
-  location.href = test;
+  //var test = "#"+(tubuyaki.length-1);
+  //location.href = test;
   $('#text_area').focus();
 }
 
